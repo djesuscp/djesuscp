@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<h3 align="center">🚀 Apasionado por la tecnología</h3>
+
+<p align="center">
+  Desarrollo aplicaciones modernas con <strong>JavaScript</strong>, <em>PHP</em> y frameworks como <strong>Laravel</strong> y <strong>Angular</strong>.
+</p>
+
