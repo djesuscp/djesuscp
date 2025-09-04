@@ -41,7 +41,7 @@
 
 ## 🌟 ¿Quieres saber más sobre mí?
 
-📄 [Ver mi CV en PDF](https://raw.githubusercontent.com/tu_usuario/tu_repo/main/CV_TuNombre.pdf)
+📄 [Ver mi CV en PDF](https://raw.githubusercontent.com/djesuscp/djesuscp/main/CV_CruzPomaresDiegoJesus.pdf)
 
 💬 También puedes contactarme a través de mi correo electrónico o explorar mis proyectos aquí en GitHub.
 
