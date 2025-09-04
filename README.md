@@ -1,8 +1,8 @@
 ## 👨‍💻 Sobre mí.
 
-🎓 Me gradué en Psicología por la Universidad de Almería y actualmente estoy finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
-
 💻 Apasionado por la programación y el hardware, con más de 10 años de experiencia autodidacta en restauración, reparación y mantenimiento de equipos.
+
+🚀 Busco una oportunidad como **desarrollador junior**, donde pueda seguir creciendo, aprendiendo y aportando valor con responsabilidad, espíritu crítico y creatividad.
 
 ## 🛠️ Tecnologías con las que he trabajado:
 
@@ -24,15 +24,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
   </p>
-</div>  
+</div>
+
+### 💼 Experiencia destacada.
+
+📦 He trabajado para una empresa de comercio internacional en la que he desempeñado labores contables y administrativas. He creado aplicaciones para automatizar este trabajo en Java y Python.
+
+🎓 Me gradué en Psicología por la Universidad de Almería y actualmente estoy finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 
 🧠 Mi formación en Psicología me aporta una perspectiva analítica, empática y resolutiva, lo cual enriquece mi enfoque en el desarrollo de software, especialmente en proyectos centrados en la experiencia del usuario y la resolución de problemas.
 
-🚀 Busco una oportunidad como **desarrollador junior**, donde pueda seguir creciendo, aprendiendo y aportando valor con responsabilidad, espíritu crítico y creatividad.
-
 ## 🌐 Idiomas
 
-- Español (nativo)  
+- Español (nativo)
 - Inglés (C1)
 
 ## 💾 ¿Quieres saber más sobre mí?
@@ -42,7 +46,7 @@
 📬 También puedes contactarme a través de mi correo electrónico o explorar mis proyectos aquí en GitHub.
 
 <a href="mailto:djesuscruzpomares@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-djesuscruzpomares@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+  <img src="https://img.shields.io/badge/Email-djesuscruzpomares@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 
 
