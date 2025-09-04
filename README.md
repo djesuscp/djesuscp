@@ -49,12 +49,3 @@
   <img src="https://img.shields.io/badge/Email-djesuscruzpomares@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 
-<h3 align="center">📊 Mis estadísticas:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djesuscp&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djesuscp&size_weight=0.5&count_weight=0.5&theme=dracula" alt="Lenguajes más usados" />
-  
-</p>
-
