@@ -1,31 +1,45 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-## 👨‍💻 Sobre mí
+🎓 Soy graduado en Psicología por la Universidad de Almería y actualmente estoy finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW) en el I.E.S. Celia Viñas.
 
-Apasionado del hardware, la programación y la psicología, busco una oportunidad como **desarrollador junior** en entornos **web** o **multiplataforma**. Gracias a mi amplia formación académica, aporto enfoques diversos y habilidades clave como el pensamiento crítico, la autodisciplina y la resolución de problemas.
+💻 Apasionado por la programación y el hardware, con más de 10 años de experiencia autodidacta en reparación y mantenimiento de equipos. En los últimos años he orientado mi carrera al desarrollo web y multiplataforma, creando proyectos con tecnologías como:
 
-🔧 Durante más de 10 años, he realizado mantenimiento, reparación y restauración de ordenadores y dispositivos móviles, así como instalaciones de sistemas y software adaptado a diferentes necesidades.
+- Java · TypeScript · Angular · PHP · Laravel  
+- JavaScript · Python · FastAPI · MySQL  
+- HTML · CSS (y Sass)
 
-💡 He desarrollado herramientas y scripts en **Java** y **Python** para automatizar tareas informáticas, lo que me ha permitido aplicar mis conocimientos en proyectos personales y seguir aprendiendo de forma constante.
+🧠 Mi formación en Psicología me aporta una perspectiva analítica, empática y resolutiva, lo cual enriquece mi enfoque en el desarrollo de software, especialmente en proyectos centrados en la experiencia del usuario y la resolución de problemas.
 
-🎯 Mi objetivo es crecer como desarrollador, enfrentar nuevos retos y contribuir con soluciones adaptadas y centradas en el usuario.
+🚀 Busco una oportunidad como **desarrollador junior**, donde pueda seguir creciendo, aprendiendo y aportando valor con responsabilidad, espíritu crítico y creatividad.
 
-## 🎓 Formación Académica
+---
 
-| Título                                                                 | Centro educativo            |
-|------------------------------------------------------------------------|-----------------------------|
-| **Grado en Psicología**                                               | Universidad de Almería       |
-| **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web** | I.E.S Celia Viñas         |
+### 💼 Experiencia destacada
 
+- **Vanguard Traders S.L.** (2023-2024)  
+  Gestión administrativa y comercial internacional + desarrollo de una app para estimaciones logísticas.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+- **Proyectos personales y académicos**  
+  Desarrollo de apps web con enfoque full-stack (REST APIs, frontend interactivo, automatización, etc.).
 
-<h3 align="center">🚀 Apasionado por la tecnología</h3>
+---
 
-<p align="center">
-  Desarrollo aplicaciones haciendo uso de tecnologías como:
+### 📌 ¿Sabías que...?
+
+He trabajado también en ámbitos como la atención neuropsicológica y la coeducación en prevención de violencia de género, lo que refuerza mi capacidad de trabajo en equipo, comunicación y sensibilidad social.
+
+---
+
+### 🌐 Idiomas
+
+- Español (nativo)  
+- Inglés (C1)
+
+---
+
+📬 **¿Quieres saber más o colaborar?**  
+Puedes escribirme o revisar algunos de mis proyectos aquí mismo en GitHub.
+
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
