@@ -1,4 +1,4 @@
-## Sobre mí.
+## 👨‍💻 Sobre mí.
 
 🎓 Me gradué en Psicología por la Universidad de Almería y actualmente estoy finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 
@@ -32,35 +32,29 @@
 
 ---
 
-### 💼 Experiencia destacada
-
-- **Vanguard Traders S.L.** (2023-2024)  
-  Gestión administrativa y comercial internacional + desarrollo de una app para estimaciones logísticas.
-
-- **Proyectos personales y académicos**  
-  Desarrollo de apps web con enfoque full-stack (REST APIs, frontend interactivo, automatización, etc.).
-
----
-
-### 📌 ¿Sabías que...?
-
-He trabajado también en ámbitos como la atención neuropsicológica y la coeducación en prevención de violencia de género, lo que refuerza mi capacidad de trabajo en equipo, comunicación y sensibilidad social.
-
----
-
-### 🌐 Idiomas
+## 🌐 Idiomas
 
 - Español (nativo)  
 - Inglés (C1)
 
 ---
 
-📬 **Contacto**  
-Puedes contactar conmigo para cualquier consulta.
+## 🌟 ¿Quieres saber más sobre mí?
+
+📄 [Ver mi CV en PDF](https://raw.githubusercontent.com/tu_usuario/tu_repo/main/CV_TuNombre.pdf)
+
+💬 También puedes contactarme a través de mi correo electrónico o explorar mis proyectos aquí en GitHub.
 
 <a href="mailto:djesuscruzpomares@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-djesuscruzpomares@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+  <img src="https://img.shields.io/badge/Email-djesuscruzpomares@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+
+---
+
+## 📬 **Contacto**  
+Puedes contactar conmigo para cualquier consulta.
+
+
 
 </p>
 
