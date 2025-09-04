@@ -30,28 +30,19 @@
 
 🚀 Busco una oportunidad como **desarrollador junior**, donde pueda seguir creciendo, aprendiendo y aportando valor con responsabilidad, espíritu crítico y creatividad.
 
-### 🌐 Idiomas
+## 🌐 Idiomas
 
 - Español (nativo)  
 - Inglés (C1)
 
-## 🌟 ¿Quieres saber más sobre mí?
+## 💾 ¿Quieres saber más sobre mí?
 
 📄 [Ver mi CV en PDF](https://raw.githubusercontent.com/djesuscp/djesuscp/main/CV_CruzPomaresDiegoJesus.pdf)
 
-💬 También puedes contactarme a través de mi correo electrónico o explorar mis proyectos aquí en GitHub.
+📬 También puedes contactarme a través de mi correo electrónico o explorar mis proyectos aquí en GitHub.
 
 <a href="mailto:djesuscruzpomares@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-djesuscruzpomares@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
 </a>
-
----
-
-## 📬 **Contacto**  
-Puedes contactar conmigo para cualquier consulta.
-
-
-
-</p>
 
 
