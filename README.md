@@ -10,7 +10,7 @@ Apasionado del hardware, la programación y la psicología, busco una oportunida
 
 🎯 Mi objetivo es crecer como desarrollador, enfrentar nuevos retos y contribuir con soluciones robustas y centradas en el usuario.
 
-### 🎓 Formación Académica
+## 🎓 Formación Académica
 
 - 🎓 **Grado en Psicología**  
   Universidad [Nombre de tu universidad]  
