@@ -2,7 +2,9 @@
 
 🎓 Me gradué en Psicología por la Universidad de Almería y actualmente estoy finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 
-💻 Apasionado por la programación y el hardware, con más de 10 años de experiencia autodidacta en restauración, reparación y mantenimiento de equipos. En los últimos años he orientado mi carrera al desarrollo web y multiplataforma, habiendo trabajado con tecnologías como:
+💻 Apasionado por la programación y el hardware, con más de 10 años de experiencia autodidacta en restauración, reparación y mantenimiento de equipos.
+
+## 🛠️ Tecnologías con las que he trabajado:
 
 <div align="center">
   <p>
