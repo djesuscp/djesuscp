@@ -1,11 +1,12 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Diego Jesús Cruz Pomares.
 
-🎓 Soy graduado en Psicología por la Universidad de Almería y actualmente estoy finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
+🎓 Me gradué en Psicología por la Universidad de Almería y actualmente estoy finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 
-💻 Apasionado por la programación y el hardware, con más de 10 años de experiencia autodidacta en reparación y mantenimiento de equipos. En los últimos años he orientado mi carrera al desarrollo web y multiplataforma, habiendo trabajado con tecnologías como:
+💻 Apasionado por la programación y el hardware, con más de 10 años de experiencia autodidacta en restauración, reparación y mantenimiento de equipos. En los últimos años he orientado mi carrera al desarrollo web y multiplataforma, habiendo trabajado con tecnologías como:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
+  Bootstrap
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -51,8 +52,8 @@ He trabajado también en ámbitos como la atención neuropsicológica y la coedu
 
 ---
 
-📬 **¿Quieres saber más o colaborar?**  
-Puedes escribirme o revisar algunos de mis proyectos aquí mismo en GitHub.
+📬 **Contacto**  
+Puedes contactar conmigo para cualquier consulta.
 
 <a href="mailto:djesuscruzpomares@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-djesuscruzpomares@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email">
