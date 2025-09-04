@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Apasionado del hardware, la programación y la psicología, busco una oportunidad como **desarrollador junior** en entornos **web** o **multiplataforma**. Gracias a mi formación en psicología y mi experiencia autodidacta en tecnología, aporto enfoques diversos y habilidades clave como el pensamiento crítico, la autodisciplina y la resolución de problemas.
+Apasionado del hardware, la programación y la psicología, busco una oportunidad como **desarrollador junior** en entornos **web** o **multiplataforma**. Gracias a mi formación en psicología (**Grado en Psicología por la Universidad de Almería**) y mi experiencia tanto autodidacta como formativa (**Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web**) en tecnología, aporto enfoques diversos y habilidades clave como el pensamiento crítico, la autodisciplina y la resolución de problemas.
 
 🔧 Durante más de 10 años, he realizado mantenimiento y reparación de ordenadores y dispositivos móviles, así como instalaciones de sistemas y software adaptado a diferentes necesidades.
 
