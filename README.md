@@ -30,14 +30,10 @@
 
 🚀 Busco una oportunidad como **desarrollador junior**, donde pueda seguir creciendo, aprendiendo y aportando valor con responsabilidad, espíritu crítico y creatividad.
 
----
-
-## 🌐 Idiomas
+### 🌐 Idiomas
 
 - Español (nativo)  
 - Inglés (C1)
-
----
 
 ## 🌟 ¿Quieres saber más sobre mí?
 
