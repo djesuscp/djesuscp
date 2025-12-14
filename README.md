@@ -27,7 +27,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-    <img src="https://img.shields.io/badge/Mockito--informational?style=for-the-badge" alt="Mockito"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mockito.svg"
+     alt="Mockito" width="40" height="40"
+     style="filter: invert(1);"/>
   </p>
 </div>
 
