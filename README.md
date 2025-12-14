@@ -27,9 +27,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mockito.svg"
-     alt="Mockito" width="40" height="40"
-     style="filter: invert(1);"/>
   </p>
 </div>
 
@@ -37,9 +34,11 @@
 
 📦 He trabajado para una empresa de comercio internacional en la que he desempeñado labores contables y administrativas. He creado aplicaciones para automatizar este trabajo en Java y Python.
 
-🎓 Me gradué en Psicología por la Universidad de Almería y actualmente estoy finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
+🎓 Me gradué en Psicología por la Universidad de Almería y obtuve el Grado Superior en Desarrollo de Aplicaciones Web (DAW) en el I.E.S. Celia Viñas de Almería.
 
 🧠 Mi formación en Psicología me aporta una perspectiva analítica, empática y resolutiva, lo cual enriquece mi enfoque en el desarrollo de software, especialmente en proyectos centrados en la experiencia del usuario y la resolución de problemas.
+
+⚙️ Durante mi etapa de prácticas en una empresa de servicios, desarrollé un entorno completo basado en Docker para el despliegue de backend (Spring Boot + Maven), frontend (ZK Framework) y CI/CD (Jenkins), incluyendo tests automatizados, análisis de código y cobertura (SonarQube y JaCoCo), versionado automático de imágenes y despliegue directo desde Docker Hub.
 
 ## 🌐 Idiomas
 
