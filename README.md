@@ -1,10 +1,8 @@
-## 👨‍💻 Sobre mí.
+## 👨‍💻 Hello, World! I'm Diego 👋
 
-💻 Apasionado por la programación y el hardware, con más de 10 años de experiencia autodidacta en restauración, reparación y mantenimiento de equipos.
+💻 I am a developer focused on building efficient, scalable software and automating complex workflows. My background in Psychology provides me with a unique analytical perspective, enabling me to design solutions that are not only technically robust but also highly intuitive and user-centered.
 
-🚀 Busco una oportunidad como **desarrollador junior**, donde pueda seguir creciendo, aprendiendo y aportando valor con responsabilidad, espíritu crítico y creatividad.
-
-## 🛠️ Tecnologías con las que he trabajado:
+## 🛠️ Tech Stack & Tools I've worked with:
 
 <div align="center">
   <p>
@@ -15,41 +13,53 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    <img src="https://simpleicons.now.sh/prisma/000000" alt="Prisma" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>
   </p>
 </div>
 
-### 💼 Experiencia destacada.
+## 🚀 Featured Projects:
 
-📦 He trabajado para una empresa de comercio internacional en la que he desempeñado labores contables y administrativas. He creado aplicaciones para automatizar este trabajo en Java y Python.
+- ### Little Refugees.
+A full-stack animal adoption platform built with the MEAN stack. It features a custom [REST API](https://github.com/djesuscp/Little_Refugees_Backend), a responsive [frontend](https://github.com/djesuscp/Little_Refugees_Frontend) developed with Sass, and secure cloud deployment on AWS.
 
-🎓 Me gradué en Psicología por la Universidad de Almería y obtuve el Grado Superior en Desarrollo de Aplicaciones Web (DAW) en el I.E.S. Celia Viñas de Almería.
+- ### VTSL Logistic Prices.
+An automation tool developed in Java 21 that optimized logistics cost estimation, significantly improving by 50% response times for international tenders.
 
-🧠 Mi formación en Psicología me aporta una perspectiva analítica, empática y resolutiva, lo cual enriquece mi enfoque en el desarrollo de software, especialmente en proyectos centrados en la experiencia del usuario y la resolución de problemas.
+- ### CI/CD Infrastructure.
+A [professional development environment](https://github.com/djesuscp/CI-CD_Environment) using Docker, Jenkins, and SonarQube for automated testing, code quality analysis, and image versioning.
 
-⚙️ Durante mi etapa de prácticas en una empresa de servicios, desarrollé un entorno completo basado en Docker para el despliegue de backend (Spring Boot + Maven), frontend (ZK Framework) y CI/CD (Jenkins), incluyendo tests automatizados, análisis de código y cobertura (SonarQube y JaCoCo), versionado automático de imágenes y despliegue directo desde Docker Hub.
+## 🧠 The Value of Psychology in Development:
+My dual background allows me to bridge the gap between technical requirements and human-centered solutions:
 
-## 🌐 Idiomas
+- ***Advanced Analytical Insight***: Solving complex logic challenges with a methodical, data-driven approach.
 
-- Español (nativo)
-- Inglés (C1)
+- ***Strategic Communication***: Effectively mediating in multidisciplinary teams and accurately translating stakeholder needs into technical specs.
 
-## 💾 ¿Quieres saber más sobre mí?
+- ***UX Optimization***: Reducing cognitive load and improving software adoption through a deep understanding of user behavior.
 
-📄 [Ver mi CV en PDF](https://raw.githubusercontent.com/djesuscp/djesuscp/main/CV_CruzPomaresDiegoJesus.pdf)
+## 💾 Do you want to know more about me?
 
-📬 También puedes contactarme a través de mi correo electrónico o explorar mis proyectos aquí en GitHub.
+📄 [View mi CV in PDF](https://raw.githubusercontent.com/djesuscp/djesuscp/main/CV_CruzPomaresDiegoJesus.pdf)
+
+📬 You can also reach out via email or explore my projects here on GitHub.
 
 <a href="mailto:djesuscruzpomares@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-djesuscruzpomares@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
