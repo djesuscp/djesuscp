@@ -57,7 +57,7 @@ My dual background allows me to bridge the gap between technical requirements an
 
 ## 💾 Do you want to know more about me?
 
-📄 [View mi CV in PDF](https://raw.githubusercontent.com/djesuscp/djesuscp/main/CV_CruzPomaresDiegoJesus.pdf)
+📄 [Download my CV (English)](https://raw.githubusercontent.com/djesuscp/djesuscp/main/CV_CruzPomaresDiegoJesus_en.pdf) || [Descarga mi CV (Español)](https://raw.githubusercontent.com/djesuscp/djesuscp/main/CV_CruzPomaresDiegoJesus_es.pdf)
 
 📬 You can also reach out via email or explore my projects here on GitHub.
 
