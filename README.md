@@ -4,6 +4,9 @@
 
 ## 🛠️ Tech Stack & Tools I've worked with:
 
+![HTML5](./Screenshot_1.jpg)
+![HTML5](./Screenshot_1.jpg)
+
 <div align="center">
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
